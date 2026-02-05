@@ -6,7 +6,6 @@ Web development tasks and project completed during my intership at Prodigy Infot
 **ID:** PIT/JAN26/00026  
 **Domain:** Web Development  
 **Duration:** January 2026  
-**Mentor:** (Mentor Name)
 
 ## Overview of the Project
 
